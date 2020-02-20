@@ -1,0 +1,2 @@
+# paper
+render as newspaper
